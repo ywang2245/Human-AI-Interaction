@@ -1,0 +1,17 @@
+# Sensitive information
+openai_key.txt
+
+# Data files
+*.docx
+
+# Result files
+*.xlsx
+*.json
+*.csv
+
+# Python cache & environment
+__pycache__/
+*.pyc
+.venv/
+
+.env 
